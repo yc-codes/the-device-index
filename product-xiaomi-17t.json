@@ -55,11 +55,11 @@
           "display": "₹69,999",
           "part": "4224101106",
           "url": "https://store.mi.com/in/item/3224101583",
-          "at": "2026-11-07T10:09:36.891Z",
+          "at": "2026-11-08T10:23:25.671Z",
           "source": "Xiaomi India",
           "availability": "in-stock",
           "refundEligible": false,
-          "expiresAt": "2026-11-08T22:09:36.891Z"
+          "expiresAt": "2026-11-09T22:23:25.671Z"
         }
       ],
       "part": "4224101106",
@@ -110,7 +110,7 @@
     "Market": "India"
   },
   "defaultVariant": "12gb-256gb-violet",
-  "pricedAt": "2026-11-07T10:09:36.891Z",
+  "pricedAt": "2026-11-08T10:23:25.671Z",
   "failedStores": [],
   "research": {
     "checkedAt": "2026-10-31",
