@@ -8,7 +8,7 @@
     {
       "id": "8gb-128gb-5g-grey",
       "label": "8GB / 128GB · Wi-Fi + 5G · Graphite Grey",
-      "part": "4224100917",
+      "part": "3224101312",
       "specs": {
         "memory": "8GB",
         "storage": "128GB",
@@ -21,20 +21,7 @@
         "connectivity": "Wi-Fi + 5G",
         "color": "Graphite Grey"
       },
-      "prices": [
-        {
-          "code": "in",
-          "local": 29999,
-          "display": "₹29,999",
-          "part": "4224100917",
-          "url": "https://store.mi.com/in/item/3224101312",
-          "at": "2026-11-11T10:57:40.168Z",
-          "source": "Xiaomi India",
-          "availability": "in-stock",
-          "refundEligible": false,
-          "expiresAt": "2026-11-12T22:57:40.168Z"
-        }
-      ],
+      "prices": [],
       "image": "https://i03.appmifile.com/949_item_in/31/12/2025/13bcb7a8a504f97a1e12d5c677a1c494.png?width=200&height=200"
     }
   ],
@@ -49,7 +36,7 @@
     "Market": "India"
   },
   "defaultVariant": "8gb-128gb-5g-grey",
-  "pricedAt": "2026-11-11T10:57:40.168Z",
+  "pricedAt": "2026-11-12T11:10:07.254Z",
   "failedStores": [],
   "research": {
     "checkedAt": "2026-10-31",
