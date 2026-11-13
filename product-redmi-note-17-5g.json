@@ -55,11 +55,11 @@
           "display": "₹27,999",
           "part": "4224101142",
           "url": "https://store.mi.com/in/item/3224101632",
-          "at": "2026-11-12T11:10:05.908Z",
+          "at": "2026-11-13T10:58:50.266Z",
           "source": "Xiaomi India",
           "availability": "in-stock",
           "refundEligible": false,
-          "expiresAt": "2026-11-13T23:10:05.908Z"
+          "expiresAt": "2026-11-14T22:58:50.266Z"
         }
       ],
       "part": "4224101142",
@@ -110,7 +110,7 @@
     "Market": "India"
   },
   "defaultVariant": "6gb-128gb-arctic-blue",
-  "pricedAt": "2026-11-12T11:10:05.908Z",
+  "pricedAt": "2026-11-13T10:58:50.266Z",
   "failedStores": [],
   "research": {
     "checkedAt": "2026-10-31",
