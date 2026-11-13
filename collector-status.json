@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-12T15:21:00.512Z",
+  "at": "2026-11-13T11:27:20.131Z",
   "attempts": {
     "macbook-air": 1794485615654,
     "macbook-neo": 1794486488174,
@@ -19,7 +19,7 @@
     "ipad-air": 1794494651913,
     "ipad": 1794495908825,
     "ipad-mini": 1794496541811,
-    "apple-watch": 1794481808837,
+    "apple-watch": 1794567534379,
     "apple-watch-se": 1794483547808,
     "apple-watch-ultra": 1794484069590,
     "apple-tv-4k": 1794484469189,
@@ -27,5 +27,5 @@
     "homepod-mini": 1794485188686
   },
   "blockedUntil": null,
-  "failed": 4
+  "failed": 0
 }
