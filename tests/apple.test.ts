@@ -5,12 +5,36 @@ import {
   parseMacSpecLine,
   bootstrapConfigurations,
   macListConfigurations,
+  discoverFamily,
 } from '../server/catalog.ts';
 test('reads Apple bootstrap objects embedded in scripts', () => {
   const html =
     '<script>window.X = { productSelectionData: {"a":"}{\\"","b":{"c":[1,2]}}, other: 1 };</script>';
   assert.deepEqual(extractObject(html, 'productSelectionData:'), { a: '}{"', b: { c: [1, 2] } });
   assert.equal(extractObject(html, 'missing:'), null);
+});
+test('display discovery resolves relative configuration links before caching and fetching', async () => {
+  for (const id of ['studio-display', 'studio-display-xdr']) {
+    const configuration = `/shop/buy-mac/${id}/standard-glass-vesa-mount-adapter`;
+    for (const href of [configuration, `https://www.apple.com${configuration}`]) {
+      const requested: string[] = [];
+      const catalog = await discoverFamily(
+        { id, name: 'Studio Display', category: 'Mac', path: `buy-mac/${id}` },
+        {
+          fetchPage: async () =>
+            `<div class="item"><a href="${href}"><div class="details">Studio Display, Standard glass, VESA mount adapter</div></a></div>`,
+          pageCache: async (url) => {
+            requested.push(url);
+            return { part: 'TEST1' };
+          },
+        },
+      );
+      assert.deepEqual(requested, [`https://www.apple.com${configuration}`]);
+      assert.equal(catalog.variants.length, 1);
+      assert.equal(catalog.variants[0].id, 'standard-glass-vesa-mount-adapter');
+      assert.equal(catalog.variants[0].part, 'TEST1');
+    }
+  }
 });
 test('strips Apple markup, footnotes and badges from labels', () => {
   assert.equal(

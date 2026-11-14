@@ -243,7 +243,8 @@ export async function discoverFamily(
   if (list.length) {
     const pages: ConfigurationPage[] = [];
     for (const item of list) {
-      const page = await pageCache(item.url, () => macConfigurationPage(item.url));
+      const url = new URL(item.url, pageUrl).href;
+      const page = await pageCache(url, () => macConfigurationPage(url));
       if (!page?.part) throw new Error(`Incomplete configuration data for ${family.id}`);
       pages.push(page);
     }
