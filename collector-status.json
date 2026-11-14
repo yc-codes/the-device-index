@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-14T11:15:58.944Z",
+  "at": "2026-11-14T11:22:39.034Z",
   "attempts": {
     "macbook-air": 1794571042604,
     "macbook-neo": 1794571668176,
@@ -23,7 +23,7 @@
     "apple-watch-se": 1794653719040,
     "apple-watch-ultra": 1794654239604,
     "apple-tv-4k": 1794654640075,
-    "homepod": 1794570417853,
+    "homepod": 1794654960199,
     "homepod-mini": 1794570730888
   },
   "blockedUntil": null,
