@@ -37,7 +37,9 @@
   },
   "defaultVariant": "8gb-128gb-5g-grey",
   "pricedAt": "2026-11-13T10:58:51.554Z",
-  "failedStores": [],
+  "failedStores": [
+    "in"
+  ],
   "research": {
     "checkedAt": "2026-10-31",
     "sources": [

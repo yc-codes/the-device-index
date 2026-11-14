@@ -26,15 +26,15 @@
       "prices": [
         {
           "code": "in",
-          "local": 35999,
-          "display": "₹35,999",
+          "local": 38999,
+          "display": "₹38,999",
           "part": "4224101026",
           "url": "https://store.mi.com/in/item/3224101440",
-          "at": "2026-11-13T10:58:51.554Z",
+          "at": "2026-11-14T10:26:18.816Z",
           "source": "Xiaomi India",
           "availability": "in-stock",
           "refundEligible": false,
-          "expiresAt": "2026-11-14T22:58:51.554Z"
+          "expiresAt": "2026-11-15T22:26:18.816Z"
         }
       ],
       "image": "https://i03.appmifile.com/142_item_in/05/03/2026/18dfcc022ecf260a72947c7d01eedbdf.png?width=200&height=200"
@@ -52,7 +52,7 @@
     "Market": "India"
   },
   "defaultVariant": "8gb-128gb-wifi-standard-grey",
-  "pricedAt": "2026-11-13T10:58:51.554Z",
+  "pricedAt": "2026-11-14T10:26:18.816Z",
   "failedStores": [],
   "research": {
     "checkedAt": "2026-10-31",
