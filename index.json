@@ -1745,9 +1745,291 @@
       "id": "studio-display",
       "name": "Studio Display",
       "category": "Mac",
-      "ready": false,
+      "ready": true,
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MFEX4?wid=1200&hei=770&fmt=jpeg&qlt=90&.v=1772563833736",
+      "variant": {
+        "id": "standard-glass-tilt-adjustable-stand",
+        "label": "599.00"
+      },
+      "configurations": 6,
+      "prices": [
+        {
+          "code": "us",
+          "local": 1599,
+          "display": "$1599",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:51:25.899Z"
+        },
+        {
+          "code": "ae",
+          "local": 6499,
+          "display": "AED 6,499",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:51:33.989Z"
+        },
+        {
+          "code": "at",
+          "local": 1699,
+          "display": "1.699 €",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:51:41.645Z"
+        },
+        {
+          "code": "au",
+          "local": 2599,
+          "display": "A$2,599 ",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:51:49.705Z"
+        },
+        {
+          "code": "be",
+          "local": 1699,
+          "display": "€ 1.699",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:51:57.936Z"
+        },
+        {
+          "code": "br",
+          "local": 18999,
+          "display": "R$ 18.999",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:52:05.652Z"
+        },
+        {
+          "code": "ca",
+          "local": 2099,
+          "display": "$2099",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:52:13.655Z"
+        },
+        {
+          "code": "ch",
+          "local": 1399,
+          "display": "CHF 1399.–",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:52:21.651Z"
+        },
+        {
+          "code": "cl",
+          "local": 1849990,
+          "display": "$1.849.990",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:52:29.641Z"
+        },
+        {
+          "code": "cz",
+          "local": 42990,
+          "display": "42 990 Kč",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:52:37.774Z"
+        },
+        {
+          "code": "de",
+          "local": 1699,
+          "display": "1.699 €",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:52:45.695Z"
+        },
+        {
+          "code": "dk",
+          "local": 12999,
+          "display": "12.999 kr.",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:52:53.746Z"
+        },
+        {
+          "code": "es",
+          "local": 1699,
+          "display": "1.699 € ",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:53:01.674Z"
+        },
+        {
+          "code": "fi",
+          "local": 1799,
+          "display": "1 799 €",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:53:09.775Z"
+        },
+        {
+          "code": "fr",
+          "local": 1699,
+          "display": "1 699 €",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:53:17.699Z"
+        },
+        {
+          "code": "gb",
+          "local": 1499,
+          "display": "£1,499",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:53:25.740Z"
+        },
+        {
+          "code": "hk",
+          "local": 12499,
+          "display": "HK$12,499",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:53:33.818Z"
+        },
+        {
+          "code": "hu",
+          "local": 699990,
+          "display": "699 990 Ft",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:53:42.024Z"
+        },
+        {
+          "code": "ie",
+          "local": 1699,
+          "display": "€1,699",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:53:50.086Z"
+        },
+        {
+          "code": "in",
+          "local": 189900,
+          "display": "₹189900.00",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:53:57.762Z"
+        },
+        {
+          "code": "it",
+          "local": 1699,
+          "display": "€ 1.699 ",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:54:06.041Z"
+        },
+        {
+          "code": "jp",
+          "local": 269800,
+          "display": "269,800円",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:54:13.938Z"
+        },
+        {
+          "code": "kr",
+          "local": 2499000,
+          "display": "₩2,499,000",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:54:21.936Z"
+        },
+        {
+          "code": "lu",
+          "local": 1642.83,
+          "display": "1 642,83 €",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:54:29.740Z"
+        },
+        {
+          "code": "mx",
+          "local": 34999,
+          "display": "$34,999",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:54:37.761Z"
+        },
+        {
+          "code": "my",
+          "local": 6499,
+          "display": "RM 6,499",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:54:45.853Z"
+        },
+        {
+          "code": "nl",
+          "local": 1699,
+          "display": "€ 1.699",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:54:53.905Z"
+        },
+        {
+          "code": "no",
+          "local": 19990,
+          "display": "kr 19 990",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:55:01.944Z"
+        },
+        {
+          "code": "nz",
+          "local": 3299,
+          "display": "NZ$3,299",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:55:09.960Z"
+        },
+        {
+          "code": "ph",
+          "local": 104999,
+          "display": "₱104,999",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:55:17.867Z"
+        },
+        {
+          "code": "pl",
+          "local": 7499,
+          "display": "7499 zł",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:55:25.912Z"
+        },
+        {
+          "code": "pt",
+          "local": 1699,
+          "display": "1699 €",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:55:33.781Z"
+        },
+        {
+          "code": "sa",
+          "local": 7299,
+          "display": "SAR 7,299",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:55:41.934Z"
+        },
+        {
+          "code": "se",
+          "local": 18995,
+          "display": "18 995 kr",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:55:49.962Z"
+        },
+        {
+          "code": "sg",
+          "local": 2199,
+          "display": "S$2,199",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:55:57.825Z"
+        },
+        {
+          "code": "th",
+          "local": 52900,
+          "display": "฿52,900",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:56:05.828Z"
+        },
+        {
+          "code": "tr",
+          "local": 99999,
+          "display": "99.999 TL",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:56:13.870Z"
+        },
+        {
+          "code": "tw",
+          "local": 52900,
+          "display": "NT$52,900",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:56:21.911Z"
+        },
+        {
+          "code": "vn",
+          "local": 44999000,
+          "display": "44.999.000đ",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:56:30.061Z"
+        }
+      ],
+      "pricedAt": "2026-11-15T12:56:38.031Z",
       "brand": "Apple",
-      "priceStatus": "pending"
+      "priceStatus": "collected"
     },
     {
       "id": "studio-display-xdr",

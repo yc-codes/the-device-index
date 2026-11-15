@@ -1,0 +1,2001 @@
+{
+  "id": "studio-display",
+  "name": "Studio Display",
+  "category": "Mac",
+  "path": "buy-mac/studio-display",
+  "url": "https://www.apple.com/shop/buy-mac/studio-display",
+  "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/studio-display-og-202603?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1770765709335",
+  "dimensions": [
+    {
+      "key": "color",
+      "name": "Color",
+      "values": [
+        {
+          "key": "599.00",
+          "label": "599.00"
+        },
+        {
+          "key": "999.00",
+          "label": "999.00"
+        },
+        {
+          "key": "899.00",
+          "label": "899.00"
+        },
+        {
+          "key": "299.00",
+          "label": "299.00"
+        }
+      ]
+    }
+  ],
+  "fixed": {},
+  "variants": [
+    {
+      "id": "standard-glass-tilt-adjustable-stand",
+      "part": "MFEX4",
+      "specs": {
+        "color": "599.00"
+      },
+      "labels": {
+        "color": "599.00"
+      },
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MFEX4?wid=1200&hei=770&fmt=jpeg&qlt=90&.v=1772563833736",
+      "name": "$1,599.00",
+      "label": "599.00",
+      "prices": [
+        {
+          "code": "us",
+          "local": 1599,
+          "display": "$1599",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:51:25.899Z",
+          "url": "https://www.apple.com/shop/buy-mac/studio-display/standard-glass-tilt-adjustable-stand"
+        },
+        {
+          "code": "ae",
+          "local": 6499,
+          "display": "AED 6,499",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:51:33.989Z",
+          "url": "https://www.apple.com/ae/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "at",
+          "local": 1699,
+          "display": "1.699 €",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:51:41.645Z",
+          "url": "https://www.apple.com/at/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "au",
+          "local": 2599,
+          "display": "A$2,599 ",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:51:49.705Z",
+          "url": "https://www.apple.com/au/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "be",
+          "local": 1699,
+          "display": "€ 1.699",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:51:57.936Z",
+          "url": "https://www.apple.com/be-nl/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "br",
+          "local": 18999,
+          "display": "R$ 18.999",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:52:05.652Z",
+          "url": "https://www.apple.com/br/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "ca",
+          "local": 2099,
+          "display": "$2099",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:52:13.655Z",
+          "url": "https://www.apple.com/ca/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "ch",
+          "local": 1399,
+          "display": "CHF 1399.–",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:52:21.651Z",
+          "url": "https://www.apple.com/ch-de/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "cl",
+          "local": 1849990,
+          "display": "$1.849.990",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:52:29.641Z",
+          "url": "https://www.apple.com/cl/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "cz",
+          "local": 42990,
+          "display": "42 990 Kč",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:52:37.774Z",
+          "url": "https://www.apple.com/cz/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "de",
+          "local": 1699,
+          "display": "1.699 €",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:52:45.695Z",
+          "url": "https://www.apple.com/de/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "dk",
+          "local": 12999,
+          "display": "12.999 kr.",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:52:53.746Z",
+          "url": "https://www.apple.com/dk/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "es",
+          "local": 1699,
+          "display": "1.699 € ",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:53:01.674Z",
+          "url": "https://www.apple.com/es/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "fi",
+          "local": 1799,
+          "display": "1 799 €",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:53:09.775Z",
+          "url": "https://www.apple.com/fi/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "fr",
+          "local": 1699,
+          "display": "1 699 €",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:53:17.699Z",
+          "url": "https://www.apple.com/fr/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "gb",
+          "local": 1499,
+          "display": "£1,499",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:53:25.740Z",
+          "url": "https://www.apple.com/uk/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "hk",
+          "local": 12499,
+          "display": "HK$12,499",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:53:33.818Z",
+          "url": "https://www.apple.com/hk/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "hu",
+          "local": 699990,
+          "display": "699 990 Ft",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:53:42.024Z",
+          "url": "https://www.apple.com/hu/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "ie",
+          "local": 1699,
+          "display": "€1,699",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:53:50.086Z",
+          "url": "https://www.apple.com/ie/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "in",
+          "local": 189900,
+          "display": "₹189900.00",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:53:57.762Z",
+          "url": "https://www.apple.com/in/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "it",
+          "local": 1699,
+          "display": "€ 1.699 ",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:54:06.041Z",
+          "url": "https://www.apple.com/it/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "jp",
+          "local": 269800,
+          "display": "269,800円",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:54:13.938Z",
+          "url": "https://www.apple.com/jp/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "kr",
+          "local": 2499000,
+          "display": "₩2,499,000",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:54:21.936Z",
+          "url": "https://www.apple.com/kr/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "lu",
+          "local": 1642.83,
+          "display": "1 642,83 €",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:54:29.740Z",
+          "url": "https://www.apple.com/lu/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "mx",
+          "local": 34999,
+          "display": "$34,999",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:54:37.761Z",
+          "url": "https://www.apple.com/mx/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "my",
+          "local": 6499,
+          "display": "RM 6,499",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:54:45.853Z",
+          "url": "https://www.apple.com/my/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "nl",
+          "local": 1699,
+          "display": "€ 1.699",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:54:53.905Z",
+          "url": "https://www.apple.com/nl/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "no",
+          "local": 19990,
+          "display": "kr 19 990",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:55:01.944Z",
+          "url": "https://www.apple.com/no/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "nz",
+          "local": 3299,
+          "display": "NZ$3,299",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:55:09.960Z",
+          "url": "https://www.apple.com/nz/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "ph",
+          "local": 104999,
+          "display": "₱104,999",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:55:17.867Z",
+          "url": "https://www.apple.com/ph/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "pl",
+          "local": 7499,
+          "display": "7499 zł",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:55:25.912Z",
+          "url": "https://www.apple.com/pl/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "pt",
+          "local": 1699,
+          "display": "1699 €",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:55:33.781Z",
+          "url": "https://www.apple.com/pt/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "sa",
+          "local": 7299,
+          "display": "SAR 7,299",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:55:41.934Z",
+          "url": "https://www.apple.com/sa-en/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "se",
+          "local": 18995,
+          "display": "18 995 kr",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:55:49.962Z",
+          "url": "https://www.apple.com/se/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "sg",
+          "local": 2199,
+          "display": "S$2,199",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:55:57.825Z",
+          "url": "https://www.apple.com/sg/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "th",
+          "local": 52900,
+          "display": "฿52,900",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:56:05.828Z",
+          "url": "https://www.apple.com/th/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "tr",
+          "local": 99999,
+          "display": "99.999 TL",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:56:13.870Z",
+          "url": "https://www.apple.com/tr/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "tw",
+          "local": 52900,
+          "display": "NT$52,900",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:56:21.911Z",
+          "url": "https://www.apple.com/tw/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "vn",
+          "local": 44999000,
+          "display": "44.999.000đ",
+          "part": "MFEX4",
+          "at": "2026-11-15T12:56:30.061Z",
+          "url": "https://www.apple.com/vn/shop/buy-mac/studio-display"
+        }
+      ]
+    },
+    {
+      "id": "standard-glass-tilt-and-height-adjustable-stand",
+      "part": "MFEW4",
+      "specs": {
+        "color": "999.00"
+      },
+      "labels": {
+        "color": "999.00"
+      },
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MFEW4?wid=1200&hei=770&fmt=jpeg&qlt=90&.v=1771432911550",
+      "name": "$1,999.00",
+      "label": "999.00",
+      "prices": [
+        {
+          "code": "us",
+          "local": 1999,
+          "display": "$1999",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:51:25.899Z",
+          "url": "https://www.apple.com/shop/buy-mac/studio-display/standard-glass-tilt-and-height-adjustable-stand"
+        },
+        {
+          "code": "ae",
+          "local": 7999,
+          "display": "AED 7,999",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:51:33.989Z",
+          "url": "https://www.apple.com/ae/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "at",
+          "local": 2099,
+          "display": "2.099 €",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:51:41.645Z",
+          "url": "https://www.apple.com/at/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "au",
+          "local": 3299,
+          "display": "A$3,299 ",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:51:49.705Z",
+          "url": "https://www.apple.com/au/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "be",
+          "local": 2099,
+          "display": "€ 2.099",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:51:57.936Z",
+          "url": "https://www.apple.com/be-nl/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "br",
+          "local": 23999,
+          "display": "R$ 23.999",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:52:05.652Z",
+          "url": "https://www.apple.com/br/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "ca",
+          "local": 2649,
+          "display": "$2649",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:52:13.655Z",
+          "url": "https://www.apple.com/ca/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "ch",
+          "local": 1749,
+          "display": "CHF 1749.–",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:52:21.651Z",
+          "url": "https://www.apple.com/ch-de/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "cl",
+          "local": 2299990,
+          "display": "$2.299.990",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:52:29.641Z",
+          "url": "https://www.apple.com/cl/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "cz",
+          "local": 52990,
+          "display": "52 990 Kč",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:52:37.774Z",
+          "url": "https://www.apple.com/cz/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "de",
+          "local": 2099,
+          "display": "2.099 €",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:52:45.695Z",
+          "url": "https://www.apple.com/de/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "dk",
+          "local": 16499,
+          "display": "16.499 kr.",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:52:53.746Z",
+          "url": "https://www.apple.com/dk/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "es",
+          "local": 2099,
+          "display": "2.099 € ",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:53:01.674Z",
+          "url": "https://www.apple.com/es/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "fi",
+          "local": 2199,
+          "display": "2 199 €",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:53:09.775Z",
+          "url": "https://www.apple.com/fi/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "fr",
+          "local": 2099,
+          "display": "2 099 €",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:53:17.699Z",
+          "url": "https://www.apple.com/fr/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "gb",
+          "local": 1899,
+          "display": "£1,899",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:53:25.740Z",
+          "url": "https://www.apple.com/uk/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "hk",
+          "local": 15499,
+          "display": "HK$15,499",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:53:33.818Z",
+          "url": "https://www.apple.com/hk/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "hu",
+          "local": 869990,
+          "display": "869 990 Ft",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:53:42.024Z",
+          "url": "https://www.apple.com/hu/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "ie",
+          "local": 2099,
+          "display": "€2,099",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:53:50.086Z",
+          "url": "https://www.apple.com/ie/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "in",
+          "local": 239900,
+          "display": "₹239900.00",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:53:57.762Z",
+          "url": "https://www.apple.com/in/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "it",
+          "local": 2099,
+          "display": "€ 2.099 ",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:54:06.041Z",
+          "url": "https://www.apple.com/it/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "jp",
+          "local": 339800,
+          "display": "339,800円",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:54:13.938Z",
+          "url": "https://www.apple.com/jp/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "kr",
+          "local": 3099000,
+          "display": "₩3,099,000",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:54:21.936Z",
+          "url": "https://www.apple.com/kr/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "lu",
+          "local": 2029.61,
+          "display": "2 029,61 €",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:54:29.740Z",
+          "url": "https://www.apple.com/lu/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "mx",
+          "local": 42999,
+          "display": "$42,999",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:54:37.761Z",
+          "url": "https://www.apple.com/mx/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "my",
+          "local": 7999,
+          "display": "RM 7,999",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:54:45.853Z",
+          "url": "https://www.apple.com/my/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "nl",
+          "local": 2099,
+          "display": "€ 2.099",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:54:53.905Z",
+          "url": "https://www.apple.com/nl/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "no",
+          "local": 24990,
+          "display": "kr 24 990",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:55:01.944Z",
+          "url": "https://www.apple.com/no/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "nz",
+          "local": 4199,
+          "display": "NZ$4,199",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:55:09.960Z",
+          "url": "https://www.apple.com/nz/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "ph",
+          "local": 129999,
+          "display": "₱129,999",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:55:17.867Z",
+          "url": "https://www.apple.com/ph/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "pl",
+          "local": 9199,
+          "display": "9199 zł",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:55:25.912Z",
+          "url": "https://www.apple.com/pl/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "pt",
+          "local": 2099,
+          "display": "2099 €",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:55:33.781Z",
+          "url": "https://www.apple.com/pt/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "sa",
+          "local": 8999,
+          "display": "SAR 8,999",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:55:41.934Z",
+          "url": "https://www.apple.com/sa-en/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "se",
+          "local": 23995,
+          "display": "23 995 kr",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:55:49.962Z",
+          "url": "https://www.apple.com/se/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "sg",
+          "local": 2699,
+          "display": "S$2,699",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:55:57.825Z",
+          "url": "https://www.apple.com/sg/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "th",
+          "local": 64900,
+          "display": "฿64,900",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:56:05.828Z",
+          "url": "https://www.apple.com/th/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "tr",
+          "local": 124999,
+          "display": "124.999 TL",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:56:13.870Z",
+          "url": "https://www.apple.com/tr/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "tw",
+          "local": 64900,
+          "display": "NT$64,900",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:56:21.911Z",
+          "url": "https://www.apple.com/tw/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "vn",
+          "local": 54999000,
+          "display": "54.999.000đ",
+          "part": "MFEW4",
+          "at": "2026-11-15T12:56:30.061Z",
+          "url": "https://www.apple.com/vn/shop/buy-mac/studio-display"
+        }
+      ]
+    },
+    {
+      "id": "standard-glass-vesa-mount-adapter",
+      "part": "MFEY4",
+      "specs": {
+        "color": "599.00"
+      },
+      "labels": {
+        "color": "599.00"
+      },
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MFEY4?wid=1200&hei=770&fmt=jpeg&qlt=90&.v=1772563833736",
+      "name": "$1,599.00",
+      "label": "599.00",
+      "prices": [
+        {
+          "code": "us",
+          "local": 1599,
+          "display": "$1599",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:51:25.899Z",
+          "url": "https://www.apple.com/shop/buy-mac/studio-display/standard-glass-vesa-mount-adapter"
+        },
+        {
+          "code": "ae",
+          "local": 6499,
+          "display": "AED 6,499",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:51:33.989Z",
+          "url": "https://www.apple.com/ae/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "at",
+          "local": 1699,
+          "display": "1.699 €",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:51:41.645Z",
+          "url": "https://www.apple.com/at/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "au",
+          "local": 2599,
+          "display": "A$2,599 ",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:51:49.705Z",
+          "url": "https://www.apple.com/au/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "be",
+          "local": 1699,
+          "display": "€ 1.699",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:51:57.936Z",
+          "url": "https://www.apple.com/be-nl/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "br",
+          "local": 18999,
+          "display": "R$ 18.999",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:52:05.652Z",
+          "url": "https://www.apple.com/br/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "ca",
+          "local": 2099,
+          "display": "$2099",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:52:13.655Z",
+          "url": "https://www.apple.com/ca/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "ch",
+          "local": 1399,
+          "display": "CHF 1399.–",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:52:21.651Z",
+          "url": "https://www.apple.com/ch-de/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "cl",
+          "local": 1849990,
+          "display": "$1.849.990",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:52:29.641Z",
+          "url": "https://www.apple.com/cl/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "cz",
+          "local": 42990,
+          "display": "42 990 Kč",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:52:37.774Z",
+          "url": "https://www.apple.com/cz/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "de",
+          "local": 1699,
+          "display": "1.699 €",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:52:45.695Z",
+          "url": "https://www.apple.com/de/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "dk",
+          "local": 12999,
+          "display": "12.999 kr.",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:52:53.746Z",
+          "url": "https://www.apple.com/dk/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "es",
+          "local": 1699,
+          "display": "1.699 € ",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:53:01.674Z",
+          "url": "https://www.apple.com/es/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "fi",
+          "local": 1799,
+          "display": "1 799 €",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:53:09.775Z",
+          "url": "https://www.apple.com/fi/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "fr",
+          "local": 1699,
+          "display": "1 699 €",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:53:17.699Z",
+          "url": "https://www.apple.com/fr/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "gb",
+          "local": 1499,
+          "display": "£1,499",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:53:25.740Z",
+          "url": "https://www.apple.com/uk/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "hk",
+          "local": 12499,
+          "display": "HK$12,499",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:53:33.818Z",
+          "url": "https://www.apple.com/hk/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "hu",
+          "local": 699990,
+          "display": "699 990 Ft",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:53:42.024Z",
+          "url": "https://www.apple.com/hu/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "ie",
+          "local": 1699,
+          "display": "€1,699",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:53:50.086Z",
+          "url": "https://www.apple.com/ie/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "in",
+          "local": 189900,
+          "display": "₹189900.00",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:53:57.762Z",
+          "url": "https://www.apple.com/in/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "it",
+          "local": 1699,
+          "display": "€ 1.699 ",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:54:06.041Z",
+          "url": "https://www.apple.com/it/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "jp",
+          "local": 269800,
+          "display": "269,800円",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:54:13.938Z",
+          "url": "https://www.apple.com/jp/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "kr",
+          "local": 2499000,
+          "display": "₩2,499,000",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:54:21.936Z",
+          "url": "https://www.apple.com/kr/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "lu",
+          "local": 1642.83,
+          "display": "1 642,83 €",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:54:29.740Z",
+          "url": "https://www.apple.com/lu/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "mx",
+          "local": 34999,
+          "display": "$34,999",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:54:37.761Z",
+          "url": "https://www.apple.com/mx/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "my",
+          "local": 6499,
+          "display": "RM 6,499",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:54:45.853Z",
+          "url": "https://www.apple.com/my/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "nl",
+          "local": 1699,
+          "display": "€ 1.699",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:54:53.905Z",
+          "url": "https://www.apple.com/nl/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "no",
+          "local": 19990,
+          "display": "kr 19 990",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:55:01.944Z",
+          "url": "https://www.apple.com/no/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "nz",
+          "local": 3299,
+          "display": "NZ$3,299",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:55:09.960Z",
+          "url": "https://www.apple.com/nz/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "ph",
+          "local": 104999,
+          "display": "₱104,999",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:55:17.867Z",
+          "url": "https://www.apple.com/ph/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "pl",
+          "local": 7499,
+          "display": "7499 zł",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:55:25.912Z",
+          "url": "https://www.apple.com/pl/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "pt",
+          "local": 1699,
+          "display": "1699 €",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:55:33.781Z",
+          "url": "https://www.apple.com/pt/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "sa",
+          "local": 7299,
+          "display": "SAR 7,299",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:55:41.934Z",
+          "url": "https://www.apple.com/sa-en/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "se",
+          "local": 18995,
+          "display": "18 995 kr",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:55:49.962Z",
+          "url": "https://www.apple.com/se/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "sg",
+          "local": 2199,
+          "display": "S$2,199",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:55:57.825Z",
+          "url": "https://www.apple.com/sg/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "th",
+          "local": 52900,
+          "display": "฿52,900",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:56:05.828Z",
+          "url": "https://www.apple.com/th/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "tr",
+          "local": 99999,
+          "display": "99.999 TL",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:56:13.870Z",
+          "url": "https://www.apple.com/tr/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "tw",
+          "local": 52900,
+          "display": "NT$52,900",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:56:21.911Z",
+          "url": "https://www.apple.com/tw/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "vn",
+          "local": 44999000,
+          "display": "44.999.000đ",
+          "part": "MFEY4",
+          "at": "2026-11-15T12:56:30.061Z",
+          "url": "https://www.apple.com/vn/shop/buy-mac/studio-display"
+        }
+      ]
+    },
+    {
+      "id": "nano-texture-glass-tilt-adjustable-stand",
+      "part": "MFF14",
+      "specs": {
+        "color": "899.00"
+      },
+      "labels": {
+        "color": "899.00"
+      },
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MFF14?wid=1200&hei=770&fmt=jpeg&qlt=90&.v=1772563833736",
+      "name": "$1,899.00",
+      "label": "899.00",
+      "prices": [
+        {
+          "code": "us",
+          "local": 1899,
+          "display": "$1899",
+          "part": "MFF14",
+          "at": "2026-11-15T12:51:25.899Z",
+          "url": "https://www.apple.com/shop/buy-mac/studio-display/nano-texture-glass-tilt-adjustable-stand"
+        },
+        {
+          "code": "ae",
+          "local": 7599,
+          "display": "AED 7,599",
+          "part": "MFF14",
+          "at": "2026-11-15T12:51:33.989Z",
+          "url": "https://www.apple.com/ae/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "at",
+          "local": 1999,
+          "display": "1.999 €",
+          "part": "MFF14",
+          "at": "2026-11-15T12:51:41.645Z",
+          "url": "https://www.apple.com/at/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "au",
+          "local": 3099,
+          "display": "A$3,099 ",
+          "part": "MFF14",
+          "at": "2026-11-15T12:51:49.705Z",
+          "url": "https://www.apple.com/au/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "be",
+          "local": 1999,
+          "display": "€ 1.999",
+          "part": "MFF14",
+          "at": "2026-11-15T12:51:57.936Z",
+          "url": "https://www.apple.com/be-nl/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "br",
+          "local": 21999,
+          "display": "R$ 21.999",
+          "part": "MFF14",
+          "at": "2026-11-15T12:52:05.652Z",
+          "url": "https://www.apple.com/br/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "ca",
+          "local": 2499,
+          "display": "$2499",
+          "part": "MFF14",
+          "at": "2026-11-15T12:52:13.655Z",
+          "url": "https://www.apple.com/ca/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "ch",
+          "local": 1699,
+          "display": "CHF 1699.–",
+          "part": "MFF14",
+          "at": "2026-11-15T12:52:21.651Z",
+          "url": "https://www.apple.com/ch-de/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "cl",
+          "local": 2199990,
+          "display": "$2.199.990",
+          "part": "MFF14",
+          "at": "2026-11-15T12:52:29.641Z",
+          "url": "https://www.apple.com/cl/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "cz",
+          "local": 49990,
+          "display": "49 990 Kč",
+          "part": "MFF14",
+          "at": "2026-11-15T12:52:37.774Z",
+          "url": "https://www.apple.com/cz/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "de",
+          "local": 1999,
+          "display": "1.999 €",
+          "part": "MFF14",
+          "at": "2026-11-15T12:52:45.695Z",
+          "url": "https://www.apple.com/de/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "dk",
+          "local": 15499,
+          "display": "15.499 kr.",
+          "part": "MFF14",
+          "at": "2026-11-15T12:52:53.746Z",
+          "url": "https://www.apple.com/dk/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "es",
+          "local": 1999,
+          "display": "1.999 € ",
+          "part": "MFF14",
+          "at": "2026-11-15T12:53:01.674Z",
+          "url": "https://www.apple.com/es/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "fi",
+          "local": 2099,
+          "display": "2 099 €",
+          "part": "MFF14",
+          "at": "2026-11-15T12:53:09.775Z",
+          "url": "https://www.apple.com/fi/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "fr",
+          "local": 1999,
+          "display": "1 999 €",
+          "part": "MFF14",
+          "at": "2026-11-15T12:53:17.699Z",
+          "url": "https://www.apple.com/fr/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "gb",
+          "local": 1799,
+          "display": "£1,799",
+          "part": "MFF14",
+          "at": "2026-11-15T12:53:25.740Z",
+          "url": "https://www.apple.com/uk/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "hk",
+          "local": 14999,
+          "display": "HK$14,999",
+          "part": "MFF14",
+          "at": "2026-11-15T12:53:33.818Z",
+          "url": "https://www.apple.com/hk/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "hu",
+          "local": 829990,
+          "display": "829 990 Ft",
+          "part": "MFF14",
+          "at": "2026-11-15T12:53:42.024Z",
+          "url": "https://www.apple.com/hu/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "ie",
+          "local": 1999,
+          "display": "€1,999",
+          "part": "MFF14",
+          "at": "2026-11-15T12:53:50.086Z",
+          "url": "https://www.apple.com/ie/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "in",
+          "local": 229900,
+          "display": "₹229900.00",
+          "part": "MFF14",
+          "at": "2026-11-15T12:53:57.762Z",
+          "url": "https://www.apple.com/in/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "it",
+          "local": 1999,
+          "display": "€ 1.999 ",
+          "part": "MFF14",
+          "at": "2026-11-15T12:54:06.041Z",
+          "url": "https://www.apple.com/it/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "jp",
+          "local": 319800,
+          "display": "319,800円",
+          "part": "MFF14",
+          "at": "2026-11-15T12:54:13.938Z",
+          "url": "https://www.apple.com/jp/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "kr",
+          "local": 2999000,
+          "display": "₩2,999,000",
+          "part": "MFF14",
+          "at": "2026-11-15T12:54:21.936Z",
+          "url": "https://www.apple.com/kr/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "lu",
+          "local": 1932.92,
+          "display": "1 932,92 €",
+          "part": "MFF14",
+          "at": "2026-11-15T12:54:29.740Z",
+          "url": "https://www.apple.com/lu/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "mx",
+          "local": 40999,
+          "display": "$40,999",
+          "part": "MFF14",
+          "at": "2026-11-15T12:54:37.761Z",
+          "url": "https://www.apple.com/mx/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "my",
+          "local": 7699,
+          "display": "RM 7,699",
+          "part": "MFF14",
+          "at": "2026-11-15T12:54:45.853Z",
+          "url": "https://www.apple.com/my/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "nl",
+          "local": 1999,
+          "display": "€ 1.999",
+          "part": "MFF14",
+          "at": "2026-11-15T12:54:53.905Z",
+          "url": "https://www.apple.com/nl/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "no",
+          "local": 23990,
+          "display": "kr 23 990",
+          "part": "MFF14",
+          "at": "2026-11-15T12:55:01.944Z",
+          "url": "https://www.apple.com/no/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "nz",
+          "local": 3999,
+          "display": "NZ$3,999",
+          "part": "MFF14",
+          "at": "2026-11-15T12:55:09.960Z",
+          "url": "https://www.apple.com/nz/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "ph",
+          "local": 124999,
+          "display": "₱124,999",
+          "part": "MFF14",
+          "at": "2026-11-15T12:55:17.867Z",
+          "url": "https://www.apple.com/ph/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "pl",
+          "local": 8799,
+          "display": "8799 zł",
+          "part": "MFF14",
+          "at": "2026-11-15T12:55:25.912Z",
+          "url": "https://www.apple.com/pl/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "pt",
+          "local": 1999,
+          "display": "1999 €",
+          "part": "MFF14",
+          "at": "2026-11-15T12:55:33.781Z",
+          "url": "https://www.apple.com/pt/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "sa",
+          "local": 8699,
+          "display": "SAR 8,699",
+          "part": "MFF14",
+          "at": "2026-11-15T12:55:41.934Z",
+          "url": "https://www.apple.com/sa-en/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "se",
+          "local": 22995,
+          "display": "22 995 kr",
+          "part": "MFF14",
+          "at": "2026-11-15T12:55:49.962Z",
+          "url": "https://www.apple.com/se/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "sg",
+          "local": 2599,
+          "display": "S$2,599",
+          "part": "MFF14",
+          "at": "2026-11-15T12:55:57.825Z",
+          "url": "https://www.apple.com/sg/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "th",
+          "local": 62900,
+          "display": "฿62,900",
+          "part": "MFF14",
+          "at": "2026-11-15T12:56:05.828Z",
+          "url": "https://www.apple.com/th/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "tr",
+          "local": 119999,
+          "display": "119.999 TL",
+          "part": "MFF14",
+          "at": "2026-11-15T12:56:13.870Z",
+          "url": "https://www.apple.com/tr/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "tw",
+          "local": 62900,
+          "display": "NT$62,900",
+          "part": "MFF14",
+          "at": "2026-11-15T12:56:21.911Z",
+          "url": "https://www.apple.com/tw/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "vn",
+          "local": 52999000,
+          "display": "52.999.000đ",
+          "part": "MFF14",
+          "at": "2026-11-15T12:56:30.061Z",
+          "url": "https://www.apple.com/vn/shop/buy-mac/studio-display"
+        }
+      ]
+    },
+    {
+      "id": "nano-texture-glass-tilt-and-height-adjustable-stand",
+      "part": "MFF04",
+      "specs": {
+        "color": "299.00"
+      },
+      "labels": {
+        "color": "299.00"
+      },
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MFF04?wid=1200&hei=770&fmt=jpeg&qlt=90&.v=1771432911558",
+      "name": "$2,299.00",
+      "label": "299.00",
+      "prices": [
+        {
+          "code": "us",
+          "local": 2299,
+          "display": "$2299",
+          "part": "MFF04",
+          "at": "2026-11-15T12:51:25.899Z",
+          "url": "https://www.apple.com/shop/buy-mac/studio-display/nano-texture-glass-tilt-and-height-adjustable-stand"
+        },
+        {
+          "code": "ae",
+          "local": 9099,
+          "display": "AED 9,099",
+          "part": "MFF04",
+          "at": "2026-11-15T12:51:33.989Z",
+          "url": "https://www.apple.com/ae/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "at",
+          "local": 2399,
+          "display": "2.399 €",
+          "part": "MFF04",
+          "at": "2026-11-15T12:51:41.645Z",
+          "url": "https://www.apple.com/at/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "au",
+          "local": 3799,
+          "display": "A$3,799 ",
+          "part": "MFF04",
+          "at": "2026-11-15T12:51:49.705Z",
+          "url": "https://www.apple.com/au/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "be",
+          "local": 2399,
+          "display": "€ 2.399",
+          "part": "MFF04",
+          "at": "2026-11-15T12:51:57.936Z",
+          "url": "https://www.apple.com/be-nl/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "br",
+          "local": 26999,
+          "display": "R$ 26.999",
+          "part": "MFF04",
+          "at": "2026-11-15T12:52:05.652Z",
+          "url": "https://www.apple.com/br/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "ca",
+          "local": 3049,
+          "display": "$3049",
+          "part": "MFF04",
+          "at": "2026-11-15T12:52:13.655Z",
+          "url": "https://www.apple.com/ca/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "ch",
+          "local": 2049,
+          "display": "CHF 2049.–",
+          "part": "MFF04",
+          "at": "2026-11-15T12:52:21.651Z",
+          "url": "https://www.apple.com/ch-de/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "cl",
+          "local": 2649990,
+          "display": "$2.649.990",
+          "part": "MFF04",
+          "at": "2026-11-15T12:52:29.641Z",
+          "url": "https://www.apple.com/cl/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "cz",
+          "local": 59990,
+          "display": "59 990 Kč",
+          "part": "MFF04",
+          "at": "2026-11-15T12:52:37.774Z",
+          "url": "https://www.apple.com/cz/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "de",
+          "local": 2399,
+          "display": "2.399 €",
+          "part": "MFF04",
+          "at": "2026-11-15T12:52:45.695Z",
+          "url": "https://www.apple.com/de/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "dk",
+          "local": 18999,
+          "display": "18.999 kr.",
+          "part": "MFF04",
+          "at": "2026-11-15T12:52:53.746Z",
+          "url": "https://www.apple.com/dk/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "es",
+          "local": 2399,
+          "display": "2.399 € ",
+          "part": "MFF04",
+          "at": "2026-11-15T12:53:01.674Z",
+          "url": "https://www.apple.com/es/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "fi",
+          "local": 2499,
+          "display": "2 499 €",
+          "part": "MFF04",
+          "at": "2026-11-15T12:53:09.775Z",
+          "url": "https://www.apple.com/fi/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "fr",
+          "local": 2399,
+          "display": "2 399 €",
+          "part": "MFF04",
+          "at": "2026-11-15T12:53:17.699Z",
+          "url": "https://www.apple.com/fr/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "gb",
+          "local": 2199,
+          "display": "£2,199",
+          "part": "MFF04",
+          "at": "2026-11-15T12:53:25.740Z",
+          "url": "https://www.apple.com/uk/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "hk",
+          "local": 17999,
+          "display": "HK$17,999",
+          "part": "MFF04",
+          "at": "2026-11-15T12:53:33.818Z",
+          "url": "https://www.apple.com/hk/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "hu",
+          "local": 999990,
+          "display": "999 990 Ft",
+          "part": "MFF04",
+          "at": "2026-11-15T12:53:42.024Z",
+          "url": "https://www.apple.com/hu/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "ie",
+          "local": 2399,
+          "display": "€2,399",
+          "part": "MFF04",
+          "at": "2026-11-15T12:53:50.086Z",
+          "url": "https://www.apple.com/ie/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "in",
+          "local": 279900,
+          "display": "₹279900.00",
+          "part": "MFF04",
+          "at": "2026-11-15T12:53:57.762Z",
+          "url": "https://www.apple.com/in/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "it",
+          "local": 2399,
+          "display": "€ 2.399 ",
+          "part": "MFF04",
+          "at": "2026-11-15T12:54:06.041Z",
+          "url": "https://www.apple.com/it/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "jp",
+          "local": 389800,
+          "display": "389,800円",
+          "part": "MFF04",
+          "at": "2026-11-15T12:54:13.938Z",
+          "url": "https://www.apple.com/jp/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "kr",
+          "local": 3599000,
+          "display": "₩3,599,000",
+          "part": "MFF04",
+          "at": "2026-11-15T12:54:21.936Z",
+          "url": "https://www.apple.com/kr/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "lu",
+          "local": 2319.69,
+          "display": "2 319,69 €",
+          "part": "MFF04",
+          "at": "2026-11-15T12:54:29.740Z",
+          "url": "https://www.apple.com/lu/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "mx",
+          "local": 48999,
+          "display": "$48,999",
+          "part": "MFF04",
+          "at": "2026-11-15T12:54:37.761Z",
+          "url": "https://www.apple.com/mx/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "my",
+          "local": 9199,
+          "display": "RM 9,199",
+          "part": "MFF04",
+          "at": "2026-11-15T12:54:45.853Z",
+          "url": "https://www.apple.com/my/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "nl",
+          "local": 2399,
+          "display": "€ 2.399",
+          "part": "MFF04",
+          "at": "2026-11-15T12:54:53.905Z",
+          "url": "https://www.apple.com/nl/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "no",
+          "local": 28990,
+          "display": "kr 28 990",
+          "part": "MFF04",
+          "at": "2026-11-15T12:55:01.944Z",
+          "url": "https://www.apple.com/no/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "nz",
+          "local": 4899,
+          "display": "NZ$4,899",
+          "part": "MFF04",
+          "at": "2026-11-15T12:55:09.960Z",
+          "url": "https://www.apple.com/nz/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "ph",
+          "local": 149999,
+          "display": "₱149,999",
+          "part": "MFF04",
+          "at": "2026-11-15T12:55:17.867Z",
+          "url": "https://www.apple.com/ph/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "pl",
+          "local": 10499,
+          "display": "10 499 zł",
+          "part": "MFF04",
+          "at": "2026-11-15T12:55:25.912Z",
+          "url": "https://www.apple.com/pl/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "pt",
+          "local": 2399,
+          "display": "2399 €",
+          "part": "MFF04",
+          "at": "2026-11-15T12:55:33.781Z",
+          "url": "https://www.apple.com/pt/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "sa",
+          "local": 10399,
+          "display": "SAR 10,399",
+          "part": "MFF04",
+          "at": "2026-11-15T12:55:41.934Z",
+          "url": "https://www.apple.com/sa-en/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "se",
+          "local": 27995,
+          "display": "27 995 kr",
+          "part": "MFF04",
+          "at": "2026-11-15T12:55:49.962Z",
+          "url": "https://www.apple.com/se/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "sg",
+          "local": 3099,
+          "display": "S$3,099",
+          "part": "MFF04",
+          "at": "2026-11-15T12:55:57.825Z",
+          "url": "https://www.apple.com/sg/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "th",
+          "local": 74900,
+          "display": "฿74,900",
+          "part": "MFF04",
+          "at": "2026-11-15T12:56:05.828Z",
+          "url": "https://www.apple.com/th/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "tr",
+          "local": 144999,
+          "display": "144.999 TL",
+          "part": "MFF04",
+          "at": "2026-11-15T12:56:13.870Z",
+          "url": "https://www.apple.com/tr/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "tw",
+          "local": 74900,
+          "display": "NT$74,900",
+          "part": "MFF04",
+          "at": "2026-11-15T12:56:21.911Z",
+          "url": "https://www.apple.com/tw/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "vn",
+          "local": 62999000,
+          "display": "62.999.000đ",
+          "part": "MFF04",
+          "at": "2026-11-15T12:56:30.061Z",
+          "url": "https://www.apple.com/vn/shop/buy-mac/studio-display"
+        }
+      ]
+    },
+    {
+      "id": "nano-texture-glass-vesa-mount-adapter",
+      "part": "MFF24",
+      "specs": {
+        "color": "899.00"
+      },
+      "labels": {
+        "color": "899.00"
+      },
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MFF24?wid=1200&hei=770&fmt=jpeg&qlt=90&.v=1772563833736",
+      "name": "$1,899.00",
+      "label": "899.00",
+      "prices": [
+        {
+          "code": "us",
+          "local": 1899,
+          "display": "$1899",
+          "part": "MFF24",
+          "at": "2026-11-15T12:51:25.899Z",
+          "url": "https://www.apple.com/shop/buy-mac/studio-display/nano-texture-glass-vesa-mount-adapter"
+        },
+        {
+          "code": "ae",
+          "local": 7599,
+          "display": "AED 7,599",
+          "part": "MFF24",
+          "at": "2026-11-15T12:51:33.989Z",
+          "url": "https://www.apple.com/ae/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "at",
+          "local": 1999,
+          "display": "1.999 €",
+          "part": "MFF24",
+          "at": "2026-11-15T12:51:41.645Z",
+          "url": "https://www.apple.com/at/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "au",
+          "local": 3099,
+          "display": "A$3,099 ",
+          "part": "MFF24",
+          "at": "2026-11-15T12:51:49.705Z",
+          "url": "https://www.apple.com/au/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "be",
+          "local": 1999,
+          "display": "€ 1.999",
+          "part": "MFF24",
+          "at": "2026-11-15T12:51:57.936Z",
+          "url": "https://www.apple.com/be-nl/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "br",
+          "local": 21999,
+          "display": "R$ 21.999",
+          "part": "MFF24",
+          "at": "2026-11-15T12:52:05.652Z",
+          "url": "https://www.apple.com/br/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "ca",
+          "local": 2499,
+          "display": "$2499",
+          "part": "MFF24",
+          "at": "2026-11-15T12:52:13.655Z",
+          "url": "https://www.apple.com/ca/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "ch",
+          "local": 1699,
+          "display": "CHF 1699.–",
+          "part": "MFF24",
+          "at": "2026-11-15T12:52:21.651Z",
+          "url": "https://www.apple.com/ch-de/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "cl",
+          "local": 2199990,
+          "display": "$2.199.990",
+          "part": "MFF24",
+          "at": "2026-11-15T12:52:29.641Z",
+          "url": "https://www.apple.com/cl/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "cz",
+          "local": 49990,
+          "display": "49 990 Kč",
+          "part": "MFF24",
+          "at": "2026-11-15T12:52:37.774Z",
+          "url": "https://www.apple.com/cz/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "de",
+          "local": 1999,
+          "display": "1.999 €",
+          "part": "MFF24",
+          "at": "2026-11-15T12:52:45.695Z",
+          "url": "https://www.apple.com/de/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "dk",
+          "local": 15499,
+          "display": "15.499 kr.",
+          "part": "MFF24",
+          "at": "2026-11-15T12:52:53.746Z",
+          "url": "https://www.apple.com/dk/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "es",
+          "local": 1999,
+          "display": "1.999 € ",
+          "part": "MFF24",
+          "at": "2026-11-15T12:53:01.674Z",
+          "url": "https://www.apple.com/es/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "fi",
+          "local": 2099,
+          "display": "2 099 €",
+          "part": "MFF24",
+          "at": "2026-11-15T12:53:09.775Z",
+          "url": "https://www.apple.com/fi/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "fr",
+          "local": 1999,
+          "display": "1 999 €",
+          "part": "MFF24",
+          "at": "2026-11-15T12:53:17.699Z",
+          "url": "https://www.apple.com/fr/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "gb",
+          "local": 1799,
+          "display": "£1,799",
+          "part": "MFF24",
+          "at": "2026-11-15T12:53:25.740Z",
+          "url": "https://www.apple.com/uk/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "hk",
+          "local": 14999,
+          "display": "HK$14,999",
+          "part": "MFF24",
+          "at": "2026-11-15T12:53:33.818Z",
+          "url": "https://www.apple.com/hk/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "hu",
+          "local": 829990,
+          "display": "829 990 Ft",
+          "part": "MFF24",
+          "at": "2026-11-15T12:53:42.024Z",
+          "url": "https://www.apple.com/hu/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "ie",
+          "local": 1999,
+          "display": "€1,999",
+          "part": "MFF24",
+          "at": "2026-11-15T12:53:50.086Z",
+          "url": "https://www.apple.com/ie/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "in",
+          "local": 229900,
+          "display": "₹229900.00",
+          "part": "MFF24",
+          "at": "2026-11-15T12:53:57.762Z",
+          "url": "https://www.apple.com/in/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "it",
+          "local": 1999,
+          "display": "€ 1.999 ",
+          "part": "MFF24",
+          "at": "2026-11-15T12:54:06.041Z",
+          "url": "https://www.apple.com/it/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "jp",
+          "local": 319800,
+          "display": "319,800円",
+          "part": "MFF24",
+          "at": "2026-11-15T12:54:13.938Z",
+          "url": "https://www.apple.com/jp/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "kr",
+          "local": 2999000,
+          "display": "₩2,999,000",
+          "part": "MFF24",
+          "at": "2026-11-15T12:54:21.936Z",
+          "url": "https://www.apple.com/kr/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "lu",
+          "local": 1932.92,
+          "display": "1 932,92 €",
+          "part": "MFF24",
+          "at": "2026-11-15T12:54:29.740Z",
+          "url": "https://www.apple.com/lu/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "mx",
+          "local": 40999,
+          "display": "$40,999",
+          "part": "MFF24",
+          "at": "2026-11-15T12:54:37.761Z",
+          "url": "https://www.apple.com/mx/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "my",
+          "local": 7699,
+          "display": "RM 7,699",
+          "part": "MFF24",
+          "at": "2026-11-15T12:54:45.853Z",
+          "url": "https://www.apple.com/my/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "nl",
+          "local": 1999,
+          "display": "€ 1.999",
+          "part": "MFF24",
+          "at": "2026-11-15T12:54:53.905Z",
+          "url": "https://www.apple.com/nl/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "no",
+          "local": 23990,
+          "display": "kr 23 990",
+          "part": "MFF24",
+          "at": "2026-11-15T12:55:01.944Z",
+          "url": "https://www.apple.com/no/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "nz",
+          "local": 3999,
+          "display": "NZ$3,999",
+          "part": "MFF24",
+          "at": "2026-11-15T12:55:09.960Z",
+          "url": "https://www.apple.com/nz/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "ph",
+          "local": 124999,
+          "display": "₱124,999",
+          "part": "MFF24",
+          "at": "2026-11-15T12:55:17.867Z",
+          "url": "https://www.apple.com/ph/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "pl",
+          "local": 8799,
+          "display": "8799 zł",
+          "part": "MFF24",
+          "at": "2026-11-15T12:55:25.912Z",
+          "url": "https://www.apple.com/pl/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "pt",
+          "local": 1999,
+          "display": "1999 €",
+          "part": "MFF24",
+          "at": "2026-11-15T12:55:33.781Z",
+          "url": "https://www.apple.com/pt/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "sa",
+          "local": 8699,
+          "display": "SAR 8,699",
+          "part": "MFF24",
+          "at": "2026-11-15T12:55:41.934Z",
+          "url": "https://www.apple.com/sa-en/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "se",
+          "local": 22995,
+          "display": "22 995 kr",
+          "part": "MFF24",
+          "at": "2026-11-15T12:55:49.962Z",
+          "url": "https://www.apple.com/se/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "sg",
+          "local": 2599,
+          "display": "S$2,599",
+          "part": "MFF24",
+          "at": "2026-11-15T12:55:57.825Z",
+          "url": "https://www.apple.com/sg/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "th",
+          "local": 62900,
+          "display": "฿62,900",
+          "part": "MFF24",
+          "at": "2026-11-15T12:56:05.828Z",
+          "url": "https://www.apple.com/th/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "tr",
+          "local": 119999,
+          "display": "119.999 TL",
+          "part": "MFF24",
+          "at": "2026-11-15T12:56:13.870Z",
+          "url": "https://www.apple.com/tr/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "tw",
+          "local": 62900,
+          "display": "NT$62,900",
+          "part": "MFF24",
+          "at": "2026-11-15T12:56:21.911Z",
+          "url": "https://www.apple.com/tw/shop/buy-mac/studio-display"
+        },
+        {
+          "code": "vn",
+          "local": 52999000,
+          "display": "52.999.000đ",
+          "part": "MFF24",
+          "at": "2026-11-15T12:56:30.061Z",
+          "url": "https://www.apple.com/vn/shop/buy-mac/studio-display"
+        }
+      ]
+    }
+  ],
+  "discoveredAt": "2026-11-15T12:51:25.899Z",
+  "defaultVariant": "standard-glass-tilt-adjustable-stand",
+  "pricedAt": "2026-11-15T12:56:38.031Z",
+  "failedStores": []
+}
