@@ -55,11 +55,11 @@
           "display": "₹52,999",
           "part": "4224101193",
           "url": "https://store.mi.com/in/item/3224101696",
-          "at": "2026-11-18T11:42:28.766Z",
+          "at": "2026-11-19T11:39:59.658Z",
           "source": "Xiaomi India",
           "availability": "in-stock",
           "refundEligible": false,
-          "expiresAt": "2026-11-19T23:42:28.766Z"
+          "expiresAt": "2026-11-20T23:39:59.658Z"
         }
       ],
       "part": "4224101193",
@@ -110,7 +110,7 @@
     "Market": "India"
   },
   "defaultVariant": "8gb-256gb-secret-sunrise",
-  "pricedAt": "2026-11-18T11:42:28.766Z",
+  "pricedAt": "2026-11-19T11:39:59.658Z",
   "failedStores": [],
   "research": {
     "checkedAt": "2026-10-31",
