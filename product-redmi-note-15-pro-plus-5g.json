@@ -70,11 +70,11 @@
           "display": "₹39,999",
           "part": "4224100960",
           "url": "https://store.mi.com/in/item/3224101364",
-          "at": "2026-11-22T11:24:59.177Z",
+          "at": "2026-11-23T12:40:35.335Z",
           "source": "Xiaomi India",
           "availability": "in-stock",
           "refundEligible": false,
-          "expiresAt": "2026-11-23T23:24:59.177Z"
+          "expiresAt": "2026-11-25T00:40:35.335Z"
         }
       ],
       "part": "4224100960",
@@ -129,7 +129,7 @@
     "Market": "India"
   },
   "defaultVariant": "8gb-256gb-carbon-black",
-  "pricedAt": "2026-11-22T11:24:59.177Z",
+  "pricedAt": "2026-11-23T12:40:35.335Z",
   "failedStores": [],
   "research": {
     "checkedAt": "2026-10-31",
