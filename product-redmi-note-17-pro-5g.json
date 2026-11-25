@@ -55,11 +55,11 @@
           "display": "₹40,999",
           "part": "4224101186",
           "url": "https://store.mi.com/in/item/3224101689",
-          "at": "2026-11-24T13:43:21.369Z",
+          "at": "2026-11-25T12:55:31.793Z",
           "source": "Xiaomi India",
           "availability": "in-stock",
           "refundEligible": false,
-          "expiresAt": "2026-11-26T01:43:21.369Z"
+          "expiresAt": "2026-11-27T00:55:31.793Z"
         }
       ],
       "part": "4224101186",
@@ -110,7 +110,7 @@
     "Market": "India"
   },
   "defaultVariant": "8gb-128gb-cloud-blue",
-  "pricedAt": "2026-11-24T13:43:21.369Z",
+  "pricedAt": "2026-11-25T12:55:31.793Z",
   "failedStores": [],
   "research": {
     "checkedAt": "2026-10-31",
